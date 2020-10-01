@@ -22,9 +22,10 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
+This bot can help you find and share **lightroom presets**. It works automatically, no need to add it anywhere. Simply open any of your chats and type @pixlrbot something in the message field. Then tap on a result to send.
+For example, try typing " @pixlrbot moody " here!
 
-Here you can search files in inline mode. Just press following buttons and start searching.
+Support Chat » @LiveLoveCapture «
 """
 
-SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
+SHARE_BUTTON_TEXT = 'Search, download and share your favourite Lightroom presets in inline using {username} Try now!!'
