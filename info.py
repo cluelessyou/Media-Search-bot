@@ -28,4 +28,4 @@ For example, try typing " @pixlrbot moody " here!
 Support Chat » @LiveLoveCapture «
 """
 
-SHARE_BUTTON_TEXT = 'Search, download and share your favourite Lightroom presets in inline using {username} Try now!!'
+SHARE_BUTTON_TEXT = 'Search, download and share your favourite Lightroom presets in inline using {username} Try now!! 😍'
