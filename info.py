@@ -25,9 +25,9 @@ START_MSG = """
 This bot can help you find download and share **Lightroom presets**
 Simply type @pixlrbot something in the message field of any chat to get started!
 
-Try typing `@pixlrbot Moody` here.
+**Try typing** `@pixlrbot Moody` **here.**
 
-**» @LiveLoveCapture** 🧚‍♀
+By @LiveLoveCapture 🧚‍♀
 """
 
-SHARE_BUTTON_TEXT = 'Search, download and share your favourite Lightroom presets in inline using {username} Try now!! 😍'
+SHARE_BUTTON_TEXT = '**Search, download and share your favourite Lightroom presets for free with {username} Try now!** 😍'
