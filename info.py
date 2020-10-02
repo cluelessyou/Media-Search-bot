@@ -22,10 +22,12 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 START_MSG = """
-This bot can help you find and share **lightroom presets**. It works automatically, no need to add it anywhere. Simply open any of your chats and type @pixlrbot something in the message field. Then tap on a result to send.
-For example, try typing " @pixlrbot moody " here!
+This bot can help you find download and share **Lightroom presets**
+Simply type @pixlrbot something in the message field of any chat to get started!
 
-Support Chat » @LiveLoveCapture «
+Try typing `@pixlrbot Moody` here.
+
+**» @LiveLoveCapture** 🧚‍♀
 """
 
 SHARE_BUTTON_TEXT = 'Search, download and share your favourite Lightroom presets in inline using {username} Try now!! 😍'
